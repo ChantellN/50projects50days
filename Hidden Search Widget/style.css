@@ -40,7 +40,7 @@ body {
   left: 0;
   height: 50px;
   width: 50px;
-  transition: tranform 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .btn:focus,
@@ -53,5 +53,5 @@ body {
 }
 
 .search.active .btn {
-  transform: translateX(198px);
+  transform: translateX(150px);
 }
