@@ -6,6 +6,9 @@ A collection of 50 mini web projects built with HTML, CSS, and JavaScript.
 
 1. [Expanding Cards](./Expanding%20Cards) - Image panels that expand on click
 2. [Progress Steps](./Progress%20Steps) - Animated progress steps component
+3. [Rotating Navigation](./Rotating%20Navigation) - Animated menu on click
+4. [Hidden Search Widget](./Hidden%20Search%20Widget) - Search bar opens on click
+5. [Blurry Loading](./Blurry%20Loading) - Image becomes less blurry on timer
 
 ## About
 
